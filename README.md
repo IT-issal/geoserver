@@ -1,6 +1,6 @@
 A quickstart for GeoServer to run on OpenShift
 
-[![DEPLOY ON OpenShift](http://launch-shifter.rhcloud.com/launch/DEPLOY ON.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges[]=jbossews-2.0&initial_git_url=https://github.com/openshift-warrior/geoserver.git&name=GeoServer)
+[![DEPLOY ON OpenShift](http://launch-shifter.rhcloud.com/launch/DEPLOY ON.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges[]=jbossews-2.0&initial_git_url=https://github.com/IT-issal/geoserver.git&name=GeoServer)
 
 I used Tomcat 7 (JBoss EWS 2.0)
 
